@@ -1,15 +1,15 @@
 {
-	"Bot_Prefix": "Enter the Bot's Prefix Here",
-	"Bot_Token": "Enter the Bot's Token Here",
-	"Bot_Name": "Enter the Bot's Name Here",
+	"Bot_Prefix": ".",
+	"Bot_Token": "MTE4MDg2NjY1MzEyMzI2NDYxMg.Gfz8s4.qX64GgKOi-QFDNxqUEH6HOpne8QoBYQ_z7zr7M",
+	"Bot_Name": "Leyo",
 	"Bot_ID": "Enter the Bot's Client/User ID Here",
 
 	"OAUTH2_CLIENT_ID": Enter_OAUTH2_Client_ID_Here,
 	"OAUTH2_CLIENT_SECRET": "Enter OAUTH2 Client Secret Here",
 	"OAUTH2_REDIRECT_URI": "Enter OAUTH2 URI Here As Entered in Discord Dev Portal | http://HOST_IP:5000/auth or https://example.com/auth",
 
-	"Your_Username": "Enter Your Username or the Server Name in which is Responsible for the Bot Here",
-	"Owners": [Enter_Owner_IDs_Here],
+	"Your_Username": " -GOURAV ",
+	"Owners": [1111623293385064509],
 	"Support_Staff_Role_ID": Enter_Staff_Role_ID_Here,
 	"Mod_Mail_Channel": Enter_Mod_Mail_ID_Here,
 	"Vote_Log": Enter_Vote_Log_ID_Here,
